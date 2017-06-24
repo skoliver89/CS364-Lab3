@@ -1,5 +1,5 @@
 # CS364-Lab3
-MySQL Lab 3 - Uses classicmodels DB
+MySQL Lab 3 - Uses classicmodels and simpleJoin DB
 1. Get the employee number, first name last name of sales people for the customers they serve.  Also the customer name and phone. (customers, employees).Return only the first 20 rows. Write as an implicit join.
 2. Write the query in #1 as an explicit inner join. The output should be the same.
 3. More on Join Types.
